@@ -1,0 +1,10 @@
+com/demo/guru99/steps/CreateNewAccountStep.java
+ com.demo.guru99.steps.CreateNewAccountStep
+com/demo/guru99/pageobjects/CreateNewAccountPage.java
+ com.demo.guru99.pageobjects.CreateNewAccountPage
+com/demo/guru99/steps/HomeStep.java
+ com.demo.guru99.steps.HomeStep
+com/demo/guru99/pageobjects/HomePage.java
+ com.demo.guru99.pageobjects.HomePage
+com/demo/guru99/models/Data.java
+ com.demo.guru99.models.Data
